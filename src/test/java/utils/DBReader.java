@@ -73,7 +73,5 @@ public class DBReader {
         }
     }
 
-    public static void main (String[] args){
-getStudentsFromDB();
-    }
+
 }
